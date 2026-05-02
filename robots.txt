@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hymystry.github.io/sitemap.xml
